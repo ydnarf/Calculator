@@ -1,2 +1,2 @@
-# Calculadora Interactiva
-### Con esta App podrás realizar operaciones matemáticas sencillas.
+# Interactive Calculator
+### With this App you can perform simple mathematical operations.
